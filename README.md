@@ -11,7 +11,7 @@ Temas:
 - Curso Django
 
 :chart_with_upwards_trend: Enlace presentacion y actividades.
-[Contenido](https://github.com/contents-pasantia/content9)
+[Contenido](https://github.com/contents-pasantia/content11)
 
 
 :rocket: Push de actividades: [Actividades](/day_1/README.md)  
@@ -23,7 +23,7 @@ Temas:
 - Curso de django restframework
 
 :chart_with_upwards_trend: Enlace presentacion y actividades.
-[Contenido](https://github.com/contents-pasantia/content9)
+[Contenido](https://github.com/contents-pasantia/content12)
 
 :rocket: Push de actividades: [Actividades](/day_2/README.md)
 
@@ -34,7 +34,7 @@ Temas:
 - Vistas en Django 
 - Curso de Django restframework 
 :chart_with_upwards_trend: Enlace presentacion y actividades.
-[Contenido](https://github.com/contents-pasantia/content10)
+[Contenido](https://github.com/contents-pasantia/content12)
 
 :rocket: Push de actividades: [Actividades](/day_3/README.md) 
 
@@ -46,7 +46,7 @@ Temas:
 - Curso Django Rest Framework
 
 :chart_with_upwards_trend: Enlace presentacion y actividades.
-[Contenido](https://github.com/contents-pasantia/content11)
+[Contenido](https://github.com/contents-pasantia/content12)
 
 :rocket: Push de actividades: [Actividades](/day_4/README.md) 
 
@@ -58,7 +58,7 @@ Temas:
 - Filtros  en Django
 
 :chart_with_upwards_trend: Enlace presentacion y actividades.
-[Contenido](https://github.com/contents-pasantia/evalucion-nodejs)
+[Contenido](https://github.com/contents-pasantia/content12)
 
 :rocket: Push de actividades: [Actividades](/day_5/README.md) 
 
@@ -73,4 +73,4 @@ Temas:
 [Docker](https://docs.docker.com/)
 - :globe_with_meridians: Django rest framework: 
 [drf](https://www.django-rest-framework.org/)
-# content-main
+
